@@ -6,11 +6,10 @@
 
 ## 👨‍💻 Về tôi
 
-- 🔭 Hiện tại tôi đang làm việc với ...
-- 🌱 Tôi đang học ...
-- 👯 Tôi muốn cộng tác về ...
-- 💬 Hãy hỏi tôi về ...
-- ⚡ Thông tin thú vị: ...
+- 🔭 Hiện tại tôi đang thất nghiệp
+- 🌱 Tôi đang học mobile app
+- 👯 Tôi muốn cộng tác về mobile app
+- ⚡ Thông tin thú vị: tôi thích ăn bún chả
 
 ## 🛠️ Ngôn ngữ và Công cụ
 
@@ -36,8 +35,8 @@
 <div align="center">
   
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/YOUR_USERNAME)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lvu.byte@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lvuxyz/)
 
 </div>
 
