@@ -1,4 +1,4 @@
-# 👋 Chào mừng đến với GitHub của tôi! 
+# 👋 Chào mừng đến với GitHub của tôi!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&width=500&lines=Passionate+Developer;Always+learning+new+things" alt="Typing SVG" />
@@ -6,10 +6,10 @@
 
 ## 👨‍💻 Về tôi
 
-- 🔭 Hiện tại tôi đang thất nghiệp
-- 🌱 Tôi đang học mobile app
-- 👯 Tôi muốn cộng tác về mobile app
-- ⚡ Thông tin thú vị: tôi thích ăn bún chả
+- 🔭 Hiện tại tôi đang tìm kiếm cơ hội mới trong lĩnh vực phát triển phần mềm
+- 🌱 Tôi đang tập trung phát triển kỹ năng về Mobile App Development
+- 👯 Tôi mong muốn được cộng tác trong các dự án mobile app đổi mới
+- ⚡ Thông tin thú vị: Tôi là một người sành ăn và đặc biệt yêu thích món bún chả Hà Nội
 
 ## 🛠️ Ngôn ngữ và Công cụ
 
@@ -24,10 +24,11 @@
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lvuxyz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvuxyz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
@@ -41,13 +42,16 @@
 
 </div>
 
-## 📈 Đóng góp
+## 📈 Hoạt động đóng góp
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lvuxyz&theme=dracula" alt="GitHub Streak Stats"/>
 </div>
 
 ---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=lvuxyz&color=blueviolet" alt="Profile views"/>
+  
+  ### Cảm ơn bạn đã ghé thăm! 👋
 </div>
